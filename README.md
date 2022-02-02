@@ -18,6 +18,7 @@ My favourite food is **mehfil biryani**, in hyderabad.Hyderabad is among the glo
 
 
 ### Recommended Food Items
+
 * Chicken Corn Soup
 * Thali
 * soft drinks and Icecreams
@@ -33,15 +34,10 @@ Below table gives a breif intro about gaming activites and the location of gamin
 
 
 |Sport | Location | Money Payable|
-
 |  ---  |   ---   | :--- |
-
 |Four square| Kansas | $ 1500|
-
 |Skydiving| New York | $ 3470|
-
 |Surfing| Dallas | $ 1355|
-
 |Skating| Minnesota | $ 650|
 
 <hr>
