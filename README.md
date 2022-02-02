@@ -11,6 +11,6 @@ My favourite food is **mehfil biryani**, in hyderabad.Hyderabad is among the glo
 
 ## RGIA Airport
 
-* Take a cab outside the airport
-* option 2- Take a metro oustide the airport
-* Step down at mehfil biryani Point
+1. Take a cab outside the airport
+2. option 2- Take a metro oustide the airport
+3. Step down at mehfil biryani Point
