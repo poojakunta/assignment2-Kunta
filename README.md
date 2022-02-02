@@ -52,3 +52,30 @@ Below table gives a breif intro about gaming activites and the location of gamin
 
 >***- Ken Poirot***
 
+
+
+<hr>
+
+# Code Fencing
+
+# Computational geometry
+
+
+
+>Computational geometry is a branch of computer science devoted to the study of algorithms which can be stated in terms of geometry. Some purely geometrical problems arise out of the study of computational geometric algorithms, and such problems are also considered to be part of computational geometry. While modern computational geometry is a recent development, it is one of the oldest fields of computing with a history stretching back to antiquity.[-Goto Source](https://en.wikipedia.org/wiki/Computational_geometry).
+
+
+we can implement `Computational geometry` as follows <https://cp-algorithms.com/geometry/basic-geometry.html>
+
+
+```
+point3d intersect(point3d a1, point3d n1, point3d a2, point3d n2, point3d a3, point3d n3) {
+    point3d x(n1.x, n2.x, n3.x);
+    point3d y(n1.y, n2.y, n3.y);
+    point3d z(n1.z, n2.z, n3.z); 
+    point3d d(dot(a1, n1), dot(a2, n2), dot(a3, n3));
+    return point3d(triple(d, y, z),
+                   triple(x, d, z),
+                   triple(x, y, d)) / triple(n1, n2, n3);
+}
+```
