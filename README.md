@@ -22,4 +22,24 @@ My favourite food is **mehfil biryani**, in hyderabad.Hyderabad is among the glo
 * Thali
 * soft drinks and Icecreams
 
+[Goto AboutMe] (AboutMe.md)
 
+<hr>
+
+## Recomended Games
+
+
+Below table gives a breif intro about gaming activites and the location of gaming arena along with amount payable for any additional equipment opted.
+
+
+|Sport | Location | Money Payable|
+
+|  ---  |   ---   | :--- |
+
+|Four square| Kansas | $ 1500|
+
+|Skydiving| New York | $ 3470|
+
+|Surfing| Dallas | $ 1355|
+
+|Skating| Minnesota | $ 650|
