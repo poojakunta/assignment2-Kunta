@@ -22,7 +22,7 @@ My favourite food is **mehfil biryani**, in hyderabad.Hyderabad is among the glo
 * Thali
 * soft drinks and Icecreams
 
-[Goto AboutMe] (AboutMe.md)
+[Goto AboutMe] (Aboutme.md)
 
 <hr>
 
@@ -43,3 +43,16 @@ Below table gives a breif intro about gaming activites and the location of gamin
 |Surfing| Dallas | $ 1355|
 
 |Skating| Minnesota | $ 650|
+
+<hr>
+
+# Pithy Quotes
+
+> “Believe you can and you are halfway there.”<br>
+
+>***- Theodore Roosevelt***
+
+>“Today is the opportunity to build the tomorrow you want.”<br>
+
+>***- Ken Poirot***
+
