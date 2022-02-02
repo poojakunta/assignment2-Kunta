@@ -14,3 +14,12 @@ My favourite food is **mehfil biryani**, in hyderabad.Hyderabad is among the glo
 1. Take a cab outside the airport
 2. option 2- Take a metro oustide the airport
 3. Step down at mehfil biryani Point
+
+
+
+### Recommended Food Items
+* Chicken Corn Soup
+* Thali
+* soft drinks and Icecreams
+
+
